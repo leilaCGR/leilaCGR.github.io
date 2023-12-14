@@ -20,11 +20,11 @@ Proyectos:
 
 Testimonios:
 
-![Testimonios](imagenes/contac_footer.png)
+![Testimonios](imagenes/testimonios.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](imagenes/contacto_footer.png)
 
 ## Tecnologías
 
