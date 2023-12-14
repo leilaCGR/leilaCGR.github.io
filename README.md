@@ -1,4 +1,4 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Portafolio Leilany
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
@@ -8,15 +8,15 @@ El propósito de esta página web es mostrar el portafolio de proyectos de una d
 
 Primera parte de la página web:
 
-![Primera parte de la página web](.png)
+![Primera parte, header y quien soy](imagenes/captura_1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia Hola y skills](imagenes/captura_2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Mis proyectos ](imagenes/captura_3.png)
 
 Testimonios:
 
